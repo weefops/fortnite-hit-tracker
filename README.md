@@ -1,3 +1,4 @@
+
 # Fortnite Hit Tracker
 
 Reads your Fortnite replay files and logs your per-match stats — most
@@ -28,7 +29,6 @@ FortniteHitTracker.exe            Scan for new replays, log them, show report
 FortniteHitTracker.exe --watch    Keep running; log each match as it finishes
 FortniteHitTracker.exe --report   Just show the report from the existing log
 FortniteHitTracker.exe --dir PATH Use a different replay folder
-```
 
 Data files, created next to the exe:
 
@@ -76,3 +76,5 @@ library.
   number as the end-of-match screen.
 - Windows only (it reads the default `%LOCALAPPDATA%` replay folder;
   `--dir` can point it anywhere).
+
+Unofficial fan-made tool. Not affiliated with or endorsed by Epic Games, Inc. Fortnite is a trademark of Epic Games, Inc.
